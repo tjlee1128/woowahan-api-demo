@@ -1,24 +1,7 @@
 ## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby와 Rails를 이용하여 간단한 CRUD 예제를 진행하는 프로젝트입니다.
 
-Things you may want to cover:
+* Ruby version : 2.3.0
+* Rails version : 5.0.0.beta1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
