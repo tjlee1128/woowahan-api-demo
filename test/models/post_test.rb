@@ -18,7 +18,7 @@ class PostTest < ActiveSupport::TestCase
       Post.create(title: '조은 글이다', body: '')
     end
   end
-  
+
   test 'cannot create a new post without title and body' do
     assert_no_difference -> { Post.count } do
       Post.create(title: '', body: '')
